@@ -1,0 +1,209 @@
+*::-webkit-input-placeholder {
+	color: #666;
+	opacity: 1;
+}
+*:-moz-placeholder {
+	color: #666;
+	opacity: 1;
+}
+*::-moz-placeholder {
+	color: #666;
+	opacity: 1;
+}
+*:-ms-input-placeholder {
+	color: #666;
+	opacity: 1;
+}
+
+body input:focus:required:invalid,
+body textarea:focus:required:invalid {
+	
+}
+body input:required:valid,
+body textarea:required:valid {
+	
+}
+
+html.js .loader {
+	background: none repeat scroll 0 0 #ffffff;
+	bottom: 0;
+	height: 100%;
+	left: 0;
+	position: fixed;
+	right: 0;
+	top: 0;
+	width: 100%;
+	z-index: 9999;
+}
+html.js .loader_inner {
+	background-image: url("../img/preloader.gif");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-color: #fff;
+	height: 60px;
+	width: 60px;
+	margin-top: -30px;
+	margin-left: -30px;
+	left: 50%;
+	top: 50%;
+	position: absolute;
+}
+
+body {
+	font-family: sans-serif;
+	font-size: 16px;
+	min-width: 320px;
+	position: relative;
+	line-height: 1.6;
+	font-family: "RobotoRegular", sans-serif;
+	overflow-x: hidden;
+}
+.hidden {
+	display: none;
+}
+
+
+
+/*!* START READY GO *!*/
+/*!* RESET *!*/
+h1, h2, h3, h4, h5, h6, ul, li, p, hr {
+	margin: 0;
+	padding: 0;
+}
+
+/*!* RESET *!*/
+/*!* LOGO BEGIN *!*/
+.logo_circle {
+	width: 20px;
+	height: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	background: #f98561;
+}
+.logo_square {
+	width: 20px;
+	height: 20px;	
+	background: #23afc8;
+}
+.site_logo ul > li:nth-child(3) > a {
+	color: #6b6b6b;
+	font-size: 20px;
+	font-family: "BreeserifRegular", sans-serif;
+}
+.site_logo ul > li:nth-child(3) > a:hover {
+	font-size: 20px;
+	font-family: "BreeserifRegular", sans-serif;
+	text-decoration: none;
+	
+}
+.site_logo ul li{
+	display: inline-block;
+	vertical-align: middle;
+	
+}
+/*!* LOGO END *!*/
+
+/*!* NAV BEGIN *!*/
+header nav ul li:hover{
+
+}
+header nav ul li{
+	display: inline-block;
+	margin: 0px 25px;
+	font-size: 14px;
+	font-family: "Ubuntu-R", sans-serif;
+	padding:20px 0px;
+}
+header nav ul li a{
+	color: #515862;
+
+}
+.top_nav a:hover{
+	color: #fff;
+	text-decoration: none;
+	background-image: url(../img/nav_hover.png);
+
+}
+/*!* NAV END *!*/
+/*!* SLIDER BEGIN *!*/
+.slider {
+	background-image: url(../img/.gif);
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 100%;
+	height: 440px;
+}
+
+.slider h1 {
+	font-family: "BebasNeueBold", sans-serif;
+	font-size: 60px;
+	color: #cccece;
+	text-align: center;
+	padding: 90px 0px 25px ;
+}
+.slider p {
+	font-family: "Ubuntu-R", sans-serif;
+	font-size: 14px;
+	color: #cccece;
+	text-align: center;
+	margin-bottom: 30px;
+	}
+.slider a {
+	font-family: "Ubuntu-CR", sans-serif;
+	color: #ffebca;
+	font-size: 25px;
+	text-align: center;
+	text-transform: uppercase;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	background: #f98561;
+	padding: 10px 60px 10px 60px;
+	margin-left: 220px;
+	}
+
+.slider a:hover {
+	color: #ffebca;
+	background: #F98539;
+	text-decoration: none;
+	
+	}
+
+
+/*!* SLIDER END *!*/
+
+/*!* MAIN BEGIN *!*/
+.our_services {
+	
+}
+
+.our_services h2{
+	font-family: "BebasNeueBold", sans-serif;
+	color: #fff;
+	font-size: 22px;
+	-webkit-border-radius: 5px;
+	border-radius: 15x;
+	background: #2190c1;
+	text-align: center;
+	width: 160px;
+	margin: 0 auto;
+	position: relative;
+	top:-17px;
+}
+
+.our_services ul li {
+	display: inline-block;
+	width: 165px;
+	height: 264px;
+	text-align: center;
+    margin-right: 29px;
+    margin-left: 29px;
+
+
+}
+
+/*!* MAIN END *!*/
+/*!* BUTTON BEGIN *!*/
+/*!* BUTTON END *!*/
+
+

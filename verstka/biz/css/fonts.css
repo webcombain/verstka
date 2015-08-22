@@ -1,0 +1,48 @@
+@font-face {
+	font-family: "RobotoRegular";
+	src: url("../fonts/RobotoRegular/RobotoRegular.eot");
+	src: url("../fonts/RobotoRegular/RobotoRegular.eot?#iefix") format("embedded-opentype"),
+			 url("../fonts/RobotoRegular/RobotoRegular.woff") format("woff"),
+			 url("../fonts/RobotoRegular/RobotoRegular.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: "BreeserifRegular";
+	src: url("../fonts/BreeserifRegular/BreeserifRegular.eot");
+	src: url("../fonts/BreeserifRegular/BreeserifRegular.eot?#iefix") format("embedded-opentype"),
+			 url("../fonts/BreeserifRegular/BreeserifRegular.woff") format("woff"),
+			 url("../fonts/BreeserifRegular/BreeserifRegular.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: "Ubuntu-R";
+	src: url("../fonts/Ubuntu-R/Ubuntu-R.eot");
+	src: url("../fonts/Ubuntu-R/Ubuntu-R.eot?#iefix") format("embedded-opentype"),
+			 url("../fonts/Ubuntu-R/Ubuntu-R.woff") format("woff"),
+			 url("../fonts/Ubuntu-R/Ubuntu-R.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: "Ubuntu-CR";
+	src: url("../fonts/Ubuntu-CR/Ubuntu-CR.eot");
+	src: url("../fonts/Ubuntu-CR/Ubuntu-CR.eot?#iefix") format("embedded-opentype"),
+			 url("../fonts/Ubuntu-CR/Ubuntu-CR.woff") format("woff"),
+			 url("../fonts/Ubuntu-CR/Ubuntu-CR.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+
+@font-face {
+	font-family: "BebasNeueBold";
+	src: url("../fonts/BebasNeueBold/BebasNeueBold.eot");
+	src: url("../fonts/BebasNeueBold/BebasNeueBold.eot?#iefix") format("embedded-opentype"),
+			 url("../fonts/BebasNeueBold/BebasNeueBold.woff") format("woff"),
+			 url("../fonts/BebasNeueBold/BebasNeueBold.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+

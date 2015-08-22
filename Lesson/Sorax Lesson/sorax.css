@@ -1,0 +1,16 @@
+body {
+margin: 0;
+}
+.container {
+	background-color: #895;
+	width: 200px;
+	height: 200px;
+	display: inline-block;
+
+}
+.inner {
+	margin: 20px;
+	background-color: #fff;
+}
+a {display: block;
+}
